@@ -74,7 +74,6 @@ NIFTY-50-Quantitative-Trading-Strategy (2210990200, 2210992461, 2210990824)/
 │   ├── main.py                    # Main execution script
 │   ├── run_ml_demo.py             # ML demo runner
 │   ├── requirements.txt           # Dependencies
-│   ├── plots/                     # Visualizations
 │   └── results/                   # Reports and analysis
 │
 ├── Report and PPT/
@@ -82,7 +81,10 @@ NIFTY-50-Quantitative-Trading-Strategy (2210990200, 2210992461, 2210990824)/
 │   └── IOHE_PPT.pptx
 │
 ├── IPR Submission Proof/
-│   └── Research__paper.docx
+│   └── 2210992461_2210990824_2210990200_Research_Paper.docx
+│
+├── Plagiarism Report/
+│   └── 2210992461_TejRaj, 2210990824_ShivamLaul,2210990200_AvinashKumarJha_ResearchPaper_PlagiarismReport.pdf
 │
 └── README.md
 ```
